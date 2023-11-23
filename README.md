@@ -1,8 +1,13 @@
 # CSE220_HW7
-MIPS Programming
 
-SBU ID#
+MIPS Programming  
 
-Name:
 
-Test cases for each part
+SBU ID#  
+
+
+Name:  
+
+
+Test cases for each part  
+
