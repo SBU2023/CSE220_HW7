@@ -3,12 +3,12 @@
   V:      .space 400  		# int V[]   The vector
   C:      .space 400  		# int C[] : The output vector
   m:      .space 10   		# m is an int whose value is at most 10
-                     		  # The actual size of the above matrices is mx n
-  col_m: .word 5          # This should not be more than 10
-  row_m: .word 5          # This should not be more than 10
+                     		  # max value for rows and columns
+  col_m: .word 5          # columns for matrix M: This should not be more than 10
+  row_m: .word 5          # rows for matrix M: This should not be more than 10
                           # col_m x row_m <= M
-  col_v: .word 1          # for vector column is always one
-  row_v: .word 5          # This should not be more than 10
+  col_v: .word 1          # colums for vector V. For a vector, the column is always one
+  row_v: .word 5          # rows for vector V. This should not be more than 10
                           # col_v * row_v s<= V
 
       # You may add more variables here if you need to
