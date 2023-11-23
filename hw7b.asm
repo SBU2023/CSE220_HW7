@@ -1,5 +1,5 @@
 .data
-# The following you can use for pretty print the 
+# The following, you can use for pretty printing the 
 # input and output as described in the document
 A:		.asciiz "A["
 B:		.asciiz "B["
