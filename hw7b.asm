@@ -1,6 +1,6 @@
 .data
-# The following, you can use for pretty printing the 
-# input and output as described in the document
+# You can use the following for the pretty printing the 
+# input and output as described in the homework document
 A:		.asciiz "A["
 B:		.asciiz "B["
 C:		.asciiz "]="
