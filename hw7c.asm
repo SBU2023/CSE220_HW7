@@ -40,8 +40,6 @@ exit:                     # This is code to terminate the program -- don't mess 
 #------- If you decide to make other functions, place their code here -------
 #
 #  You do not have to use helper methods, but you may if you would like to.
-#  If you do use them, be sure to do all the proper stack management.
-#  For this exercise though, it is easy enough to write all your code
-#  within the main.
+#  If you do use them, be sure to do all the proper stack management. 
 #
 #------------ END CODE ---------------
