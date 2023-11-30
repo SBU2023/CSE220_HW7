@@ -7,6 +7,8 @@ C:		.asciiz "]="
 spacechar:	.asciiz " "
 bar:		.asciiz "|"
 
+
+.align 2
 pinA: .space	400 # We will not change this
 pinB: .space	400 # We will not change this
 num: .word n  # We can change this 
